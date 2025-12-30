@@ -1,0 +1,49 @@
+cinema,ville,distance_km,prix_eur
+Cinema Mont Blanc,St Gervais,1.2,6.5
+Cinema Le Fayet,Le Fayet,2.8,6.8
+Cinema Les Houches,Les Houches,8.5,7.2
+Cinema Chamonix,Chamonix,12.0,8.0
+Cinema Sallanches,Sallanches,15.3,7.8
+Cinema Passy,Passy,17.1,7.9
+Cinema Cluses,Cluses,28.4,8.5
+Cinema Megève,Megève,10.2,9.5
+Cinema Combloux,Combloux,9.6,8.9
+Cinema Praz sur Arly,Praz-sur-Arly,22.0,9.2
+Cinema Albertville,Albertville,48.5,10.5
+Cinema Annecy,Annecy,75.0,13.0
+Cinema Annecy Centre,Annecy,76.3,13.5
+Cinema Thonon,Thonon-les-Bains,85.2,12.8
+Cinema Evian,Evian-les-Bains,88.0,13.2
+Cinema Bonneville,Bonneville,33.5,9.0
+Cinema Rumilly,Rumilly,68.0,11.8
+Cinema La Roche,La Roche-sur-Foron,42.1,10.2
+Cinema Scionzier,Scionzier,30.0,8.7
+Cinema Sallanches Nord,Sallanches,16.0,8.1
+Cinema Sallanches Sud,Sallanches,15.8,8.0
+Cinema Aime,Aime-la-Plagne,60.4,11.0
+Cinema Moûtiers,Moûtiers,65.2,11.5
+Cinema Bourg St Maurice,Bourg-Saint-Maurice,78.5,12.7
+Cinema Ugine,Ugine,52.0,10.8
+Cinema Taninges,Taninges,35.0,9.1
+Cinema Samoëns,Samoëns,40.5,9.8
+Cinema Morzine,Morzine,70.0,12.0
+Cinema Les Gets,Les Gets,68.5,11.9
+Cinema Cluses Centre,Cluses,29.0,8.9
+Cinema Passy Plateau,Passy,18.0,8.2
+Cinema Domancy,Domancy,14.5,7.7
+Cinema Servoz,Servoz,6.5,7.0
+Cinema Chedde,Chedde,4.2,6.9
+Cinema Magland,Magland,24.5,8.4
+Cinema Scionzier Est,Scionzier,31.2,8.8
+Cinema Sallanches Ouest,Sallanches,16.5,8.0
+Cinema Faverges,Faverges,58.3,11.2
+Cinema Seynod,Seynod,73.0,12.9
+Cinema Annecy le Vieux,Annecy,77.5,13.4
+Cinema Marignier,Marignier,26.8,8.6
+Cinema Ayse,Ayse,27.5,8.7
+Cinema Cluses Sud,Cluses,28.9,8.8
+Cinema Passy Plaine,Passy,17.5,8.0
+Cinema St Jean Sixt,St-Jean-de-Sixt,50.5,10.6
+Cinema La Clusaz,La Clusaz,55.0,11.0
+Cinema Manigod,Manigod,57.2,11.1
+Cinema Thyez,Thyez,29.5,8.9
